@@ -1,12 +1,12 @@
 # Hi, I'm Daniel McNamee 👋
 
-Software Development student at ATU Sligo with a strong interest in backend development, cloud systems, and building practical applications.
+Software Development student at ATU Sligo focused on building practical applications and developing real-world experience with modern web and software technologies.
 
 ---
 
 ## Technologies
 
-### Primary
+### Core Technologies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -87,6 +87,14 @@ Features include game storage, position review, and preparation tools for studyi
 
 Repository  
 https://github.com/Daniel-McNamee/ChessPrep
+
+---
+
+# GitHub Stats
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-mcnamee-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcnamee-dev&layout=compact&theme=tokyonight)
 
 ---
 

@@ -90,9 +90,7 @@ https://github.com/Daniel-McNamee/ChessPrep
 
 ---
 
-# GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-mcnamee-dev&show_icons=true&theme=tokyonight)
+## Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcnamee-dev&layout=compact&theme=tokyonight)
 
@@ -102,3 +100,6 @@ https://github.com/Daniel-McNamee/ChessPrep
 
 GitHub  
 https://github.com/daniel-mcnamee-dev
+
+Email
+danielmcnamee2000@gmail.com

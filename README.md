@@ -98,8 +98,6 @@ https://github.com/Daniel-McNamee/ChessPrep
 
 ## Contact
 
-GitHub  
-https://github.com/daniel-mcnamee-dev
+[![Email](https://img.shields.io/badge/Email-danielmcnamee2000%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:danielmcnamee2000@gmail.com)
 
-Email
-danielmcnamee2000@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-daniel--mcnamee--dev-black?style=flat-square&logo=github)](https://github.com/daniel-mcnamee-dev)

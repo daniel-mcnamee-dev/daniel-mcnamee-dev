@@ -63,6 +63,22 @@ https://github.com/daniel-mcnamee-dev/TrialOfTheSphinx
 
 ---
 
+### Code Snippet Repository
+
+![status](https://img.shields.io/badge/status-completed-brightgreen)
+
+Web-based application for storing and managing reusable code snippets, built with Node.js and Express.
+
+Users can save, organise, and retrieve snippets, making it easier to reuse code across projects and improve development workflow.
+
+Live Demo  
+https://code-snippet-first-year-project.onrender.com  
+
+Repository  
+https://github.com/daniel-mcnamee-dev/Code-Snippet-First-Year-Project-
+
+---
+
 ## Currently Working On
 
 ### Chess Insight

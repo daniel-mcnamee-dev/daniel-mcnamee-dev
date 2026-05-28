@@ -184,7 +184,7 @@ Repository
 
 ## Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcnamee-dev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-mcnamee-dev&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 

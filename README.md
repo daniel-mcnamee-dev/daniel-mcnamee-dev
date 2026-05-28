@@ -1,5 +1,3 @@
-Here’s a cleaned up and updated version that better reflects your current portfolio while keeping the same tone and style you already use.
-
 # Hi, I'm Daniel McNamee 👋
 
 Software Development student at ATU Sligo focused on building practical applications and developing real-world experience with modern web, cloud, and software technologies.

@@ -182,12 +182,6 @@ Repository
 
 ---
 
-## Languages Used
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daniel-mcnamee-dev&layout=compact&theme=tokyonight)
-
----
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-danielmcnamee2000%40gmail.com-red?style=flat-square\&logo=gmail\&logoColor=white)](mailto:danielmcnamee2000@gmail.com)

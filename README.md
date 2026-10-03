@@ -8,18 +8,28 @@ Software Development student at ATU Sligo focused on building practical applicat
 
 ### Core Technologies
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blueviolet?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-C%23-blue?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-Architecture-blueviolet?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blueviolet?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-Architecture-blueviolet?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-4479A1?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0088CC?style=flat-square)
+![MEAN Stack](https://img.shields.io/badge/MEAN%20Stack-3F3F3F?style=flat-square)
 
 ### Frontend
 
@@ -30,28 +40,30 @@ Software Development student at ATU Sligo focused on building practical applicat
 
 ### Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![API](https://img.shields.io/badge/REST-API-blue?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Testing & Development Practices
+
+![Automated Testing](https://img.shields.io/badge/Automated%20Testing-25A162?style=flat-square)
+![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=flat-square)
+![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=flat-square)
 
 ### Tools & Platforms
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-### Currently Learning
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-4CAF50?style=flat-square)
-![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=flat-square)
-![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Additional Experience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 
